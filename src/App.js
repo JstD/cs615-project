@@ -8,8 +8,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/cs615-project/proposal" element={<Proposal />} />
-          <Route path="/" element={<Home />} />
+          <Route path="/*" element={<Proposal />} />
         </Routes>
       </BrowserRouter>
     </div>
