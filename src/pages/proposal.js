@@ -3,14 +3,6 @@ import React from "react";
 import { Avatar, List } from "antd";
 
 const Proposal = () => {
-  const data = [
-    {
-      title: "1. Problem Statement",
-    },
-    {
-      title: "2. User's Goals, Actions, and Potential Obstacles",
-    },
-  ];
   return (
     <div style={{ marginLeft: 500 + "px", marginRight: 500 + "px" }}>
       <h2>Proposal</h2>
