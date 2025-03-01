@@ -1,10 +1,9 @@
 //proposal.js
 import React from "react";
-import { Avatar, List } from "antd";
 
 const Proposal = () => {
   return (
-    <div style={{ marginLeft: 500 + "px", marginRight: 500 + "px" }}>
+    <div>
       <h2>Proposal</h2>
       <h3>Group name: Andrew</h3>
       <h3>Member: Dung(Andrew) Truong</h3>
