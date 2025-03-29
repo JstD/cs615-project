@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/cs615-project/static/css/main.e6c13ad2.css",
-    "main.js": "/cs615-project/static/js/main.798187d4.js",
+    "main.js": "/cs615-project/static/js/main.4505fcae.js",
     "static/js/488.695cba67.chunk.js": "/cs615-project/static/js/488.695cba67.chunk.js",
+    "static/media/list-deal.jpg": "/cs615-project/static/media/list-deal.79b5f4c1a514ae22f9ca.jpg",
+    "static/media/list-deal-fixed.jpg": "/cs615-project/static/media/list-deal-fixed.2eba5b06a219e615510a.jpg",
+    "static/media/owned-deal-fixed.jpg": "/cs615-project/static/media/owned-deal-fixed.5f82e4a41e61fb5b733f.jpg",
+    "static/media/welcome.jpg": "/cs615-project/static/media/welcome.b52955d9ef9f0df752ab.jpg",
+    "static/media/welcome-fixed.jpg": "/cs615-project/static/media/welcome-fixed.8ea2812b0bfa10286c36.jpg",
+    "static/media/owned-deal.jpg": "/cs615-project/static/media/owned-deal.35b442a56aaddea838d0.jpg",
     "static/media/manage.jpg": "/cs615-project/static/media/manage.742a6dfe4a1ca45f227c.jpg",
     "static/media/search.jpg": "/cs615-project/static/media/search.66e4317cc7531f49bb21.jpg",
+    "static/media/create-deal.jpg": "/cs615-project/static/media/create-deal.8a64ec72022ce503b7b5.jpg",
+    "static/media/claimed-deal.jpg": "/cs615-project/static/media/claimed-deal.88dbc90d5fb1c332480a.jpg",
     "static/media/review.jpg": "/cs615-project/static/media/review.d35c00567319140e9765.jpg",
     "index.html": "/cs615-project/index.html",
     "main.e6c13ad2.css.map": "/cs615-project/static/css/main.e6c13ad2.css.map",
-    "main.798187d4.js.map": "/cs615-project/static/js/main.798187d4.js.map",
+    "main.4505fcae.js.map": "/cs615-project/static/js/main.4505fcae.js.map",
     "488.695cba67.chunk.js.map": "/cs615-project/static/js/488.695cba67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.798187d4.js"
+    "static/js/main.4505fcae.js"
   ]
 }
