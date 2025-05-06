@@ -7,7 +7,9 @@ const Implementation = () => {
         Github repository for the project
       </a>
       <h2>2. Instructions</h2>
+      Requirements: Node v20+
       <ol>
+        <li>Install yarn (if needed) by: `npm i -g yarn`</li>
         <li>Run `yarn` to install dependencies</li>
         <li>Run `yarn dev` to start the application</li>
       </ol>
