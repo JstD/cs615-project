@@ -7,6 +7,7 @@ import DomainAnalysis from "./pages/domainanalysis";
 import Storyboard from "./pages/storyboard";
 import PaperPrototype from "./pages/paperprototype";
 import ComputerPrototype from "./pages/computerprototype";
+import Implementation from "./pages/implementation";
 const { Header, Content, Sider } = Layout;
 const task = [
   "Proposal",
@@ -16,6 +17,7 @@ const task = [
   "Storyboard",
   "Paper Prototype",
   "Computer Prototype",
+  "Implementation",
 ];
 const items2 = [1].map((icon, index) => {
   const key = String(index + 1);
@@ -24,9 +26,9 @@ const items2 = [1].map((icon, index) => {
     // icon: React.createElement(icon),
     label: `Submissions`,
     children: Array.from({
-      length: 7,
+      length: 8,
     }).map((_, j) => {
-      const subKey = index * 7 + j + 1;
+      const subKey = index * 8 + j + 1;
       return {
         key: subKey,
         label: task[j],
@@ -43,6 +45,7 @@ const App = () => {
     <Storyboard />,
     <PaperPrototype />,
     <ComputerPrototype />,
+    <Implementation />,
   ];
   const [content, setContent] = useState(<Proposal />);
   const handleMenuClick = (e) => {
